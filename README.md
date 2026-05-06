@@ -1,2 +1,3 @@
 # MMAP
-EM algorithms for Marked Markovian Arrival Processes (MMAP)
+EM algorithms for Marked Markovian Arrival Processes (MMAP).\
+Coming soon...
